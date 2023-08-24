@@ -1,3 +1,0 @@
-/Users/frankyang/CLionProjects/ChemicalBalancingUtility/cmake-build-debug/CMakeFiles/ChemicalBalancingUtility.dir
-/Users/frankyang/CLionProjects/ChemicalBalancingUtility/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/frankyang/CLionProjects/ChemicalBalancingUtility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
